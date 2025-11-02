@@ -26,6 +26,7 @@ Activar entorno virtual y ejecutar la aplicación:
 ```bash
 source venv/bin/activate
 streamlit run main1.py
+```
 ---
 
 ## link del pdf para visualizar el informe del trabajo
